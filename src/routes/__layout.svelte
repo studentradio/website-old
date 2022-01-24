@@ -130,7 +130,7 @@
 		<div class="container container-header max-h-full">
 			<div class="row max-h-full">
 				<div class="col-sm-4 site-logo">
-					<a href="/">
+					<a rel="external" href="/">
 						<img
 							class="img-responsive max-h-64"
 							src="https://studentradio.org.uk/wp-content/themes/studentradio/association/img/logo.png"
@@ -167,7 +167,7 @@
 								id="menu-item-4561"
 								class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4561"
 							>
-								<a title="Home" href="/"
+								<a rel="external" title="Home" href="/"
 									><i class="fa fa-home" style="display: inline" />&nbsp;Home</a
 								>
 							</li>
@@ -176,6 +176,7 @@
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4910 dropdown"
 							>
 								<a
+									rel="external"
 									title="About"
 									href="#"
 									data-toggle="dropdown"
@@ -189,13 +190,13 @@
 										id="menu-item-4911"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4911"
 									>
-										<a title="About the SRA" href="/about/">About the SRA</a>
+										<a rel="external" title="About the SRA" href="/about/">About the SRA</a>
 									</li>
 									<li
 										id="menu-item-8505"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8505"
 									>
-										<a title="Partnerships &#038; Support" href="/support/"
+										<a rel="external" title="Partnerships &#038; Support" href="/support/"
 											>Partnerships &#038; Support</a
 										>
 									</li>
@@ -203,33 +204,38 @@
 										id="menu-item-4980"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4980"
 									>
-										<a title="Join The SRA" href="/about/join-the-sra/">Join The SRA</a>
+										<a rel="external" title="Join The SRA" href="/about/join-the-sra/"
+											>Join The SRA</a
+										>
 									</li>
 									<li
 										id="menu-item-7504"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7504"
 									>
-										<a title="SRA Officers" href="/connect/officers/">SRA Officers</a>
+										<a rel="external" title="SRA Officers" href="/connect/officers/">SRA Officers</a
+										>
 									</li>
 									<li
 										id="menu-item-4981"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4981"
 									>
-										<a title="Honorary Life Members" href="/about/honorary-life-members/"
-											>Honorary Life Members</a
+										<a
+											rel="external"
+											title="Honorary Life Members"
+											href="/about/honorary-life-members/">Honorary Life Members</a
 										>
 									</li>
 									<li
 										id="menu-item-4958"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4958"
 									>
-										<a title="Governance" href="/about/governance/">Governance</a>
+										<a rel="external" title="Governance" href="/about/governance/">Governance</a>
 									</li>
 									<li
 										id="menu-item-4960"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4960"
 									>
-										<a title="Company Documentation" href="/about/documentation/"
+										<a rel="external" title="Company Documentation" href="/about/documentation/"
 											>Company Documentation</a
 										>
 									</li>
@@ -240,6 +246,7 @@
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6819 dropdown"
 							>
 								<a
+									rel="external"
 									title="News &amp; Jobs"
 									href="#"
 									data-toggle="dropdown"
@@ -253,25 +260,25 @@
 										id="menu-item-6821"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6821"
 									>
-										<a title="SRA News" href="/news/">SRA News</a>
+										<a rel="external" title="SRA News" href="/news/">SRA News</a>
 									</li>
 									<li
 										id="menu-item-6820"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6820"
 									>
-										<a title="Industry News" href="/news/industry/">Industry News</a>
+										<a rel="external" title="Industry News" href="/news/industry/">Industry News</a>
 									</li>
 									<li
 										id="menu-item-10542"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10542"
 									>
-										<a title="Jobs" href="/news/jobs/">Jobs</a>
+										<a rel="external" title="Jobs" href="/news/jobs/">Jobs</a>
 									</li>
 									<li
 										id="menu-item-11174"
 										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11174"
 									>
-										<a title="Technology" href="/category/technology/">Technology</a>
+										<a rel="external" title="Technology" href="/category/technology/">Technology</a>
 									</li>
 								</ul>
 							</li>
@@ -279,7 +286,7 @@
 								id="menu-item-5004"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5004"
 							>
-								<a title="Awards" href="/awards/"
+								<a rel="external" title="Awards" href="/awards/"
 									><i class="fa fa-trophy" style="display: inline" />&nbsp;Awards</a
 								>
 							</li>
@@ -287,7 +294,7 @@
 								id="menu-item-7853"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7853"
 							>
-								<a title="Conference" href="/conference/"
+								<a rel="external" title="Conference" href="/conference/"
 									><i class="fa fa-graduation-cap" style="display: inline" />&nbsp;Conference</a
 								>
 							</li>
@@ -296,6 +303,7 @@
 								class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10801 dropdown"
 							>
 								<a
+									rel="external"
 									title="Music"
 									href="#"
 									data-toggle="dropdown"
@@ -307,19 +315,21 @@
 										id="menu-item-10800"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10800"
 									>
-										<a title="SRA Music" href="/music/">SRA Music</a>
+										<a rel="external" title="SRA Music" href="/music/">SRA Music</a>
 									</li>
 									<li
 										id="menu-item-11383"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11383"
 									>
-										<a title="SRA Playlist" href="/music/sra-playlist/">SRA Playlist</a>
+										<a rel="external" title="SRA Playlist" href="/music/sra-playlist/"
+											>SRA Playlist</a
+										>
 									</li>
 									<li
 										id="menu-item-11621"
 										class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11621"
 									>
-										<a title="SRA Class of 2020" href="/2019/11/sra-class-of-2020/"
+										<a rel="external" title="SRA Class of 2020" href="/2019/11/sra-class-of-2020/"
 											>SRA Class of 2020</a
 										>
 									</li>
@@ -327,13 +337,13 @@
 										id="menu-item-10802"
 										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10802"
 									>
-										<a title="Music News" href="/category/music/">Music News</a>
+										<a rel="external" title="Music News" href="/category/music/">Music News</a>
 									</li>
 									<li
 										id="menu-item-7028"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7028"
 									>
-										<a title="Chart Show" href="/chart/">Chart Show</a>
+										<a rel="external" title="Chart Show" href="/chart/">Chart Show</a>
 									</li>
 								</ul>
 							</li>
@@ -341,7 +351,7 @@
 								id="menu-item-4982"
 								class="more test menu-item menu-item-type-custom menu-item-object-custom menu-item-4982"
 							>
-								<a title="Stations" href="/stations"
+								<a rel="external" title="Stations" href="/stations"
 									><i class="fa fa-rss" style="display: inline" />&nbsp;Stations</a
 								>
 							</li>
@@ -349,14 +359,14 @@
 								id="menu-item-7425"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7425"
 							>
-								<a title="Contact" href="/contact/"
+								<a rel="external" title="Contact" href="/contact/"
 									><i class="fa fa-comments-o" style="display: inline" />&nbsp;Contact</a
 								>
 							</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right" style="display: none">
 							<li style="display: none">
-								<a href="#" data-toggle="modal" data-target="#modal-login"
+								<a rel="external" href="#" data-toggle="modal" data-target="#modal-login"
 									><i class="fa fa-fw fa-user" /> Login / Register</a
 								>
 							</li>
@@ -395,7 +405,7 @@
 				<slot />
 				<div class="col-md-4">
 					<div id="secondary" class="well well-sm" role="complementary">
-						<aside id="mailchimp" class="widget">
+						<a rel="external" side id="mailchimp" class="widget">
 							<div class="row">
 								<div class="col-md-12">
 									<form
@@ -439,32 +449,33 @@
 									</form>
 								</div>
 							</div>
-						</aside>
 
-						<aside id="social" class="widget">
-							<div class="row">
-								<div class="col-md-12">
-									<style>
-										#twitter-icon.fixed {
-											position: fixed;
-											top: 10px;
-										}
-									</style>
-									<div id="twitter-icon" class="social-icon">
-										<p style="margin: 0 0 -5px">
-											<a
-												class="twitter-timeline"
-												height="400"
-												width="100%"
-												data-chrome="noheader noborders nofooter"
-												href="https://twitter.com/SRA"
-												data-widget-id="506830386756734976">Tweets by @SRA</a
-											>
-										</p>
+							<a rel="external" side id="social" class="widget">
+								<div class="row">
+									<div class="col-md-12">
+										<style>
+											#twitter-icon.fixed {
+												position: fixed;
+												top: 10px;
+											}
+										</style>
+										<div id="twitter-icon" class="social-icon">
+											<p style="margin: 0 0 -5px">
+												<a
+													rel="external"
+													class="twitter-timeline"
+													height="400"
+													width="100%"
+													data-chrome="noheader noborders nofooter"
+													href="https://twitter.com/SRA"
+													data-widget-id="506830386756734976">Tweets by @SRA</a
+												>
+											</p>
+										</div>
 									</div>
 								</div>
-							</div>
-						</aside>
+							</a></a
+						>
 					</div>
 				</div>
 			</div>
@@ -482,24 +493,27 @@
 			</p>
 
 			<div class="btn-group">
-				<a href="/credits" class="btn btn-xs btn-default">Credits</a>
-				<a href="/legal" class="btn btn-xs btn-default">Legal</a>
+				<a rel="external" href="/credits" class="btn btn-xs btn-default">Credits</a>
+				<a rel="external" href="/legal" class="btn btn-xs btn-default">Legal</a>
 			</div>
 		</div>
 		<div class="back-to-top pull-right">
 			<a
+				rel="external"
 				target="_blank"
 				href="https://www.facebook.com/studentradio"
 				class="btn btn-large btn-link social-link facebook"
 				><i class="fa-brands fa-fw fa-facebook fa-3x" /></a
 			>
 			<a
+				rel="external"
 				target="_blank"
 				href="https://www.twitter.com/sra"
 				class="btn btn-large btn-link social-link twitter"
 				><i class="fa-brands fa-fw fa-twitter fa-3x" /></a
 			>
 			<a
+				rel="external"
 				target="_blank"
 				href="https://www.instagram.com/studentradioassociation"
 				class="btn btn-large btn-link social-link instagram"
@@ -507,6 +521,7 @@
 			>
 
 			<a
+				rel="external"
 				target="_blank"
 				href="https://www.youtube.com/StudentRadioUK"
 				class="btn btn-large btn-link social-link youtube"

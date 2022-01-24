@@ -7,22 +7,24 @@
 				educational establishments, as well as individual students participating in radio and audio
 				projects, and work with industry bodies to offer advice, support and opportunities to our
 				members.
-				<a href="/about" style="font-weight: bold">Learn how you can be a part of what we do</a>.
+				<a rel="external" href="/about" style="font-weight: bold"
+					>Learn how you can be a part of what we do</a
+				>.
 			</div>
 			<hr />
 		</div>
 		<div class="col-md-12">
 			<h3 style="margin-top: 0">
 				<i class="fa fa-fw fa-newspaper-o" />&nbsp;Latest News
-				<span style="font-size: 0.7em">(<a href="/news">more...</a>)</span>
+				<span style="font-size: 0.7em">(<a rel="external" href="/news">more...</a>)</span>
 			</h3>
 		</div>
 		<div class="col-md-6">
 			<div class="section home-news">
 				<div class="unit-feature">
 					<a
+						rel="external"
 						href="/2020/09/voices-of-the-virus-podcast/"
-						rel="bookmark"
 						title="Voices of the Virus Podcast"
 					>
 						<img
@@ -38,8 +40,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/voices-of-the-virus-podcast/"
-						rel="bookmark"
 						title="Permanent Link to Voices of the Virus Podcast"
 					>
 						<h4 class="unit-title">Voices of the Virus Podcast</h4>
@@ -49,8 +51,8 @@
 				</div>
 				<div class="unit-feature">
 					<a
+						rel="external"
 						href="/2020/09/podcasting-in-lockdown-the-ultimate-sports-podcast/"
-						rel="bookmark"
 						title="Podcasting in lockdown, The Ultimate Sports Podcast"
 					>
 						<img
@@ -72,8 +74,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/podcasting-in-lockdown-the-ultimate-sports-podcast/"
-						rel="bookmark"
 						title="Permanent Link to Podcasting in lockdown, The Ultimate Sports Podcast"
 					>
 						<h4 class="unit-title">Podcasting in lockdown, The Ultimate Sports Podcast</h4>
@@ -83,8 +85,8 @@
 				</div>
 				<div class="unit-feature">
 					<a
+						rel="external"
 						href="/2020/09/the-simon-and-alex-show-podcast/"
-						rel="bookmark"
 						title="The Simon and Alex Show Podcast"
 					>
 						<img
@@ -106,8 +108,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/the-simon-and-alex-show-podcast/"
-						rel="bookmark"
 						title="Permanent Link to The Simon and Alex Show Podcast"
 					>
 						<h4 class="unit-title">The Simon and Alex Show Podcast</h4>
@@ -120,7 +122,7 @@
 		<div class="col-md-6">
 			<div class="section home-news">
 				<div class="unit-feature">
-					<a href="/2020/09/demonfm-podcast/" rel="bookmark" title="DemonFM Podcast">
+					<a rel="external" href="/2020/09/demonfm-podcast/" title="DemonFM Podcast">
 						<img
 							src="https://studentradio.org.uk/wp-content/uploads/2020/09/Demon-Podcasts-Logo-1-150x150.jpg"
 							class="pull-left img-rounded wp-post-image"
@@ -138,8 +140,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/demonfm-podcast/"
-						rel="bookmark"
 						title="Permanent Link to DemonFM Podcast"
 					>
 						<h4 class="unit-title">DemonFM Podcast</h4>
@@ -149,8 +151,8 @@
 				</div>
 				<div class="unit-feature">
 					<a
+						rel="external"
 						href="/2020/09/the-9-grand-a-year-podcast-and-disabled-by-definition-podcast/"
-						rel="bookmark"
 						title="The 9 Grand a Year Podcast and Disabled by Definition Podcast"
 					>
 						<img
@@ -170,8 +172,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/the-9-grand-a-year-podcast-and-disabled-by-definition-podcast/"
-						rel="bookmark"
 						title="Permanent Link to The 9 Grand a Year Podcast and Disabled by Definition Podcast"
 					>
 						<h4 class="unit-title">
@@ -182,7 +184,7 @@
 					<div class="clearfix" />
 				</div>
 				<div class="unit-feature">
-					<a href="/2020/09/student-music-network/" rel="bookmark" title="Student Music Network">
+					<a rel="external" href="/2020/09/student-music-network/" title="Student Music Network">
 						<img
 							src="https://studentradio.org.uk/wp-content/uploads/2020/09/SMN-5-150x150.png"
 							class="pull-left img-rounded wp-post-image"
@@ -196,8 +198,8 @@
 						/>
 					</a>
 					<a
+						rel="external"
 						href="/2020/09/student-music-network/"
-						rel="bookmark"
 						title="Permanent Link to Student Music Network"
 					>
 						<h4 class="unit-title">Student Music Network</h4>
